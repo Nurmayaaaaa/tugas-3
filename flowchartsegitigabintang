@@ -1,0 +1,18 @@
+flowchartsegitigabintang
+https://drive.google.com/file/d/1zxBw3M77Ao8ORdWu2sBxnUkKzu4sDEXV/view?usp=sharing
+
+MULASETn=6
+
+UNTUK i DARI 1 HINGGA i LAKUKAN
+  CETAK j DARI 1 HINGGA i LAKUKAN
+      JIKA j ==1 MAKA
+           CETAK "*"
+      SELAIN ITU
+           CETAK "  . *"
+      SELESAI JIKA 
+   SELESAI UNTUK
+
+    CETAK baris baru // pindah ke baris baru setelah i
+SELESAI UNTUK
+
+           
