@@ -1,0 +1,13 @@
+flowchartpolasegitigabintang:
+
+https://drive.google.com/file/d/1zxBw3M77Ao8ORdWu2sBxnUkKzu4sDEXV/view?usp=sharing
+
+MULAI
+FUNGSI pprint_pattern(n)
+UNTUK i DARI 0  HINGGA n-1 LAKUKAN
+CETAK spasi sebanyak (i*2) // mencetak spasi di awal baris 
+CETAK "*" sebanyak (n-i) // mencetak bintang 
+SELESAI UNTUK
+SELESAI FUNGSI
+   SET n=8
+   PANGGIL print_pattern(n)
